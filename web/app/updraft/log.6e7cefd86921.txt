@@ -1,0 +1,143 @@
+0000.001 (0) Opened log file at time: Wed, 10 May 2017 14:28:44 +0000 on https://gifting.dev/wp
+0000.004 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.13.1.21 WP: 4.7.4 PHP: 7.1.4-1+deb.sury.org~xenial+1 (fpm-fcgi, Linux gifting 4.4.0-31-generic #50-Ubuntu SMP Wed Jul 13 00:07:12 UTC 2016 x86_64) MySQL: 5.5.5 WPLANG: en_US Server: nginx/1.11.9 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 32.5M | 2M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG:  ZipArchive::addFile: Y
+0000.006 (0) Free space on disk containing Updraft's temporary directory: 36272.7 MB
+0000.014 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.015 (0) Semaphore (fd, wp_options) being initialised
+0000.021 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.024 (0) Set semaphore last lock (fd) time to 2017-05-10 14:28:44
+0000.026 (0) Semaphore lock (fd) complete
+0000.031 (0) Backup run: resumption=0, nonce=6e7cefd86921, begun at=1494426524 (0s ago), job type=backup, label=Test
+0000.034 (0) Scheduling a resumption (1) after 300 seconds (1494426824) in case this run gets aborted
+0000.045 (0) Checking if we have a zip executable available
+0000.047 (0) Creation of backups of directories: beginning
+0000.061 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0000.853 (0) Total entities for the zip file: 273 directories, 1581 files (0 skipped as non-modified), 19 MB
+0000.901 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 100 files added (on-disk size: 0 KB)
+0000.948 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 200 files added (on-disk size: 0 KB)
+0000.993 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 300 files added (on-disk size: 0 KB)
+0001.039 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 400 files added (on-disk size: 0 KB)
+0001.087 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 500 files added (on-disk size: 0 KB)
+0001.091 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (11.4 MB, 1581 files batched, 501 (501) added so far); re-opening (prior size: 0 KB)
+0002.848 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 600 files added (on-disk size: 3294.8 KB)
+0002.897 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 700 files added (on-disk size: 3294.8 KB)
+0002.947 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 800 files added (on-disk size: 3294.8 KB)
+0003.001 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 900 files added (on-disk size: 3294.8 KB)
+0003.053 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1000 files added (on-disk size: 3294.8 KB)
+0003.056 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (5.5 MB, 1581 files batched, 501 (1002) added so far); re-opening (prior size: 3294.8 KB)
+0004.238 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1100 files added (on-disk size: 4690.9 KB)
+0004.315 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1200 files added (on-disk size: 4690.9 KB)
+0004.397 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1300 files added (on-disk size: 4690.9 KB)
+0004.470 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1400 files added (on-disk size: 4690.9 KB)
+0004.551 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip.tmp: 1500 files added (on-disk size: 4690.9 KB)
+0004.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 500 files added on this batch (1.7 MB, 1581 files batched, 501 (1503) added so far); re-opening (prior size: 4690.9 KB)
+0005.835 (0) Created plugins zip (0) - 5493.7 KB in 5.8 s (952.8 KB/s) (sha1: 17927c45b7ecd557af2060bcd55905c61626f8ca, sha256: 286cd9c3454f329aab2f909319d720cf84482978094306aabbc2f7b06ca0ca0e)
+0005.845 (0) Beginning creation of dump of themes (split every: 400 MB)
+0006.017 (0) Total entities for the zip file: 51 directories, 226 files (0 skipped as non-modified), 1.7 MB
+0006.062 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0006.108 (0) Zip: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0006.584 (0) Created themes zip (0) - 1017.4 KB in 0.7 s (1391.3 KB/s) (sha1: b56b4145a0595b6dc8095c5b1280d04e4d54f83a, sha256: 40ac81e20654f66e588fca912c75102eccd618c18f8f0f722b2e89f5323a6b18)
+0006.594 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0006.596 (0) Looking for candidates to back up in: /srv/www/gifting.digital/current/web/app/uploads
+0006.598 (0) finding files: .gitkeep: adding to list (1)
+0006.599 (0) finding files: 2017: adding to list (2)
+0006.601 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0006.618 (0) Total entities for the zip file: 3 directories, 1 files (0 skipped as non-modified), 0 MB
+0006.641 (0) Created uploads zip (0) - 0.4 KB in 0 s (13.2 KB/s) (sha1: f5d1f6ded6c0872d23686a10f854b56be9108873, sha256: 0537c77dc5ff026174440556032f75ede2b88e6c4c0171d631cff51528089a5f)
+0006.650 (0) No backup of wpcore: excluded by user's options
+0006.652 (0) Beginning backup of other directories found in the content directory (index: 0)
+0006.654 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0006.655 (0) Looking for candidates to back up in: /srv/www/gifting.digital/current/web/app
+0006.658 (0) finding files: .DS_Store: adding to list (1)
+0006.659 (0) finding files: mu-plugins: adding to list (2)
+0006.660 (0) finding files: plugins: skipping: this is the plugins directory
+0006.661 (0) finding files: themes: skipping: this is the themes directory
+0006.662 (0) finding files: updraft: skipping: this is the updraft directory
+0006.663 (0) finding files: upgrade: skipping: excluded by options
+0006.664 (0) finding files: uploads: skipping: this is the uploads directory
+0006.676 (0) Total entities for the zip file: 1 directories, 4 files (0 skipped as non-modified), 0 MB
+0006.695 (0) Created others zip (0) - 3.1 KB in 0 s (134 KB/s) (sha1: dc3e68da47e02a52dd5b1d39cbd3d5d50f36a8df, sha256: 2481b42dc0d8bf1e823bc76b4f8c5cfc0485bd7fce150c2b8be5fb41425b4ca3)
+0006.702 (0) No backup of more: excluded by user's options
+0006.707 (0) Saving backup status to database (elements: 8)
+0006.710 (0) Beginning creation of database dump (WordPress DB)
+0006.722 (0) Table wp_options: Total expected rows (approximate): 181
+0006.751 (0) Table wp_options: Total rows added: 181 in 0.03 seconds
+0006.759 (0) Table wp_options: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_options.table.gz - 159.2 KB)
+0006.771 (0) Table wp_users: Total expected rows (approximate): 0
+0006.773 (0) Table wp_users: Total rows added: 2 in 0.00 seconds
+0006.776 (0) Table wp_users: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_users.table.gz - 0.7 KB)
+0006.788 (0) Table wp_usermeta: Total expected rows (approximate): 29
+0006.791 (0) Table wp_usermeta: Total rows added: 29 in 0.00 seconds
+0006.793 (0) Table wp_usermeta: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_usermeta.table.gz - 1 KB)
+0006.804 (0) Table wp_commentmeta: Total expected rows (approximate): 0
+0006.806 (0) Table wp_commentmeta: Total rows added: 0 in 0.00 seconds
+0006.808 (0) Table wp_commentmeta: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_commentmeta.table.gz - 0.4 KB)
+0006.821 (0) Table wp_comments: Total expected rows (approximate): 0
+0006.824 (0) Table wp_comments: Total rows added: 1 in 0.00 seconds
+0006.826 (0) Table wp_comments: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_comments.table.gz - 0.7 KB)
+0006.839 (0) Table wp_links: Total expected rows (approximate): 0
+0006.841 (0) Table wp_links: Total rows added: 0 in 0.00 seconds
+0006.844 (0) Table wp_links: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_links.table.gz - 0.4 KB)
+0006.856 (0) Table wp_postmeta: Total expected rows (approximate): 18
+0006.859 (0) Table wp_postmeta: Total rows added: 18 in 0.00 seconds
+0006.861 (0) Table wp_postmeta: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_postmeta.table.gz - 1.2 KB)
+0006.873 (0) Table wp_posts: Total expected rows (approximate): 6
+0006.876 (0) Table wp_posts: Total rows added: 6 in 0.00 seconds
+0006.879 (0) Table wp_posts: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_posts.table.gz - 1.5 KB)
+0006.890 (0) Table wp_term_relationships: Total expected rows (approximate): 0
+0006.892 (0) Table wp_term_relationships: Total rows added: 1 in 0.00 seconds
+0006.895 (0) Table wp_term_relationships: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_term_relationships.table.gz - 0.3 KB)
+0006.906 (0) Table wp_term_taxonomy: Total expected rows (approximate): 0
+0006.908 (0) Table wp_term_taxonomy: Total rows added: 1 in 0.00 seconds
+0006.910 (0) Table wp_term_taxonomy: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_term_taxonomy.table.gz - 0.4 KB)
+0006.923 (0) Table wp_termmeta: Total expected rows (approximate): 0
+0006.925 (0) Table wp_termmeta: Total rows added: 0 in 0.00 seconds
+0006.928 (0) Table wp_termmeta: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_termmeta.table.gz - 0.4 KB)
+0006.940 (0) Table wp_terms: Total expected rows (approximate): 0
+0006.942 (0) Table wp_terms: Total rows added: 1 in 0.00 seconds
+0006.944 (0) Table wp_terms: finishing file (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_terms.table.gz - 0.4 KB)
+0006.955 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_options.table.gz (1/12): adding to final database dump
+0006.981 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_users.table.gz (2/12): adding to final database dump
+0006.984 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_usermeta.table.gz (3/12): adding to final database dump
+0006.987 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_commentmeta.table.gz (4/12): adding to final database dump
+0006.989 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_comments.table.gz (5/12): adding to final database dump
+0006.992 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_links.table.gz (6/12): adding to final database dump
+0006.994 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_postmeta.table.gz (7/12): adding to final database dump
+0006.997 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_posts.table.gz (8/12): adding to final database dump
+0006.999 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_term_relationships.table.gz (9/12): adding to final database dump
+0007.001 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_term_taxonomy.table.gz (10/12): adding to final database dump
+0007.004 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_termmeta.table.gz (11/12): adding to final database dump
+0007.007 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db-table-wp_terms.table.gz (12/12): adding to final database dump
+0007.015 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db.gz: finished writing out complete database file (136 KB)
+0007.031 (0) Total database tables backed up: 12 (backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db.gz, size: 167589, sha256)
+0007.036 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0007.037 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0007.038 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0007.039 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-others.zip: others: This file has not yet been successfully uploaded: will queue
+0007.041 (0) backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db.gz: db: This file has not yet been successfully uploaded: will queue
+0007.042 (0) Saving backup history. Total backup size: 6.5 MB
+0007.044 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0007.048 (0) Cloud backup selection (1/1): none (last)
+0007.049 (0) No remote despatch: user chose no remote backup service
+0007.052 (0) Recording as successfully uploaded: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-plugins.zip (14b7aedcc99f9da8ffff6b798f9906d1)
+0007.058 (0) Recording as successfully uploaded: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-themes.zip (accdb16459fe2583f0d253c3b9573afc)
+0007.063 (0) Recording as successfully uploaded: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-uploads.zip (6f09b00e6964ac7f99fd3902cbbf63c9)
+0007.068 (0) Recording as successfully uploaded: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-others.zip (10ffd39218b8e637fa3c6ba90536c921)
+0007.073 (0) Recording as successfully uploaded: backup_2017-05-10-1428_giftingdigital_6e7cefd86921-db.gz (c463b1ec2ac7294863a6a659ee093fd9)
+0007.079 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0007.081 (0) Number of backup sets in history: 1; groups (db): 1
+0007.082 (0) Examining (for databases) backup set with group_id=0, nonce=6e7cefd86921, datestamp=1494426524 (May 10 2017 14:28:44)
+0007.083 (0) This backup set is the backup set just made, so will not be deleted.
+0007.084 (0) Number of backup sets in history: 1; groups (files): 1
+0007.086 (0) Examining (for files) backup set with nonce=6e7cefd86921, datestamp=1494426524 (May 10 2017 14:28:44)
+0007.087 (0) This backup set is the backup set just made, so will not be deleted.
+0007.088 (0) This backup set is the backup set just made, so will not be deleted.
+0007.088 (0) This backup set is the backup set just made, so will not be deleted.
+0007.088 (0) This backup set is the backup set just made, so will not be deleted.
+0007.089 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0007.090 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0007.092 (0) Resume backup (6e7cefd86921, 0): finish run
+0007.095 (0) Decremented the semaphore (fd) by 1
+0007.097 (0) Semaphore (fd) unlocked
+0007.098 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0007.102 (0) No email will/can be sent - the user has not configured an email address.
+0007.103 (0) The backup apparently succeeded and is now complete

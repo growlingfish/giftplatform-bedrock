@@ -4,8 +4,57 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "08ef0920621ab78c07eec336ac7da739",
+    "content-hash": "d6ae87cd9482311e9672fa18ed3fb816",
     "packages": [
+        {
+            "name": "airesvsg/acf-to-rest-api",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/airesvsg/acf-to-rest-api.git",
+                "reference": "42dea4edcddbaac88148b150e1729981ff1a07b9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/42dea4edcddbaac88148b150e1729981ff1a07b9",
+                "reference": "42dea4edcddbaac88148b150e1729981ff1a07b9",
+                "shasum": ""
+            },
+            "require": {
+                "composer/installers": "~1.0",
+                "php": ">=5.3.2"
+            },
+            "type": "wordpress-plugin",
+            "license": [
+                "GPLv2.0+"
+            ],
+            "authors": [
+                {
+                    "name": "Aires Gonçalves",
+                    "email": "airesvsg@gmail.com",
+                    "homepage": "http://airesgoncalves.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Exposes Advanced Custom Fields Endpoints in the WordPress REST API",
+            "homepage": "https://github.com/airesvsg/acf-to-rest-api",
+            "keywords": [
+                "acf",
+                "fields",
+                "json",
+                "rest-api",
+                "wordpres-plugin",
+                "wordpress",
+                "wp",
+                "wp-api"
+            ],
+            "support": {
+                "email": "airesvsg@gmail.com",
+                "issues": "https://github.com/airesvsg/acf-to-rest-api/issues",
+                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.0.1-beta"
+            },
+            "time": "2017-04-04T12:46:19+00:00"
+        },
         {
             "name": "composer/installers",
             "version": "v1.2.0",
@@ -114,17 +163,36 @@
             "time": "2016-08-13T20:53:52+00:00"
         },
         {
+            "name": "growlingfish/better-search-replace",
+            "version": "1.3.3",
+            "source": {
+                "type": "path",
+                "url": "http://growlingfish.asuscomm.com/satis/bsrpro/",
+                "reference": "1.3.3"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://growlingfish.asuscomm.com/satis/bsrpro/bsrpro.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "wordpress-plugin"
+        },
+        {
             "name": "growlingfish/giftplatform",
             "version": "dev-master",
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "origin/master"
+                "reference": "90d74ab38a01f410b3eb11a6e0e25cfda83ddcee"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/origin/master",
-                "reference": "origin/master",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/90d74ab38a01f410b3eb11a6e0e25cfda83ddcee",
+                "reference": "90d74ab38a01f410b3eb11a6e0e25cfda83ddcee",
                 "shasum": ""
             },
             "type": "wordpress-plugin",
@@ -132,7 +200,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2017-04-27 20:48:46"
+            "time": "2017-05-11 19:41:23"
         },
         {
             "name": "growlingfish/giftplatform-theme",
@@ -140,12 +208,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform-theme.git",
-                "reference": "origin/master"
+                "reference": "d8fd9ac2134a065fc3a70286e37087c4b4369d5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/origin/master",
-                "reference": "origin/master",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/d8fd9ac2134a065fc3a70286e37087c4b4369d5f",
+                "reference": "d8fd9ac2134a065fc3a70286e37087c4b4369d5f",
                 "shasum": ""
             },
             "type": "wordpress-theme",
@@ -153,7 +221,26 @@
                 "source": "https://github.com/growlingfish/giftplatform-theme/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform-theme/issues"
             },
-            "time": "2017-04-27 21:21:28"
+            "time": "2017-05-11 15:14:55"
+        },
+        {
+            "name": "growlingfish/updraftplus",
+            "version": "2.12.40.0",
+            "source": {
+                "type": "path",
+                "url": "http://growlingfish.asuscomm.com/satis/updraftplus/",
+                "reference": "master"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "http://growlingfish.asuscomm.com/satis/updraftplus/updraftplus.zip",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "php": ">=5.3.2"
+            },
+            "type": "wordpress-plugin"
         },
         {
             "name": "johnpbloch/wordpress",
@@ -429,27 +516,6 @@
             "time": "2016-09-01T10:05:43+00:00"
         },
         {
-            "name": "wpackagist-plugin/acf-to-rest-api",
-            "version": "dev-trunk",
-            "source": {
-                "type": "svn",
-                "url": "https://plugins.svn.wordpress.org/acf-to-rest-api/",
-                "reference": "trunk"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/acf-to-rest-api.zip?timestamp=1481155788",
-                "reference": null,
-                "shasum": null
-            },
-            "require": {
-                "composer/installers": "~1.0"
-            },
-            "type": "wordpress-plugin",
-            "homepage": "https://wordpress.org/plugins/acf-to-rest-api/",
-            "time": "2016-12-08T00:09:48+00:00"
-        },
-        {
             "name": "wpackagist-plugin/advanced-custom-fields",
             "version": "dev-trunk",
             "source": {
@@ -495,16 +561,16 @@
     "packages-dev": [
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "2.8.1",
+            "version": "2.9.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d"
+                "reference": "f7dfecbee89d68ab475a6c9e17d22bc9b69aed97"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d",
-                "reference": "d7cf0d894e8aa4c73712ee4a331cc1eaa37cdc7d",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/f7dfecbee89d68ab475a6c9e17d22bc9b69aed97",
+                "reference": "f7dfecbee89d68ab475a6c9e17d22bc9b69aed97",
                 "shasum": ""
             },
             "require": {
@@ -569,17 +635,17 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2017-03-01T22:17:45+00:00"
+            "time": "2017-05-03T23:30:39+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
-        "wpackagist-plugin/acf-to-rest-api": 20,
         "wpackagist-plugin/advanced-custom-fields": 20,
         "wpackagist-plugin/custom-post-type-ui": 20,
         "growlingfish/giftplatform": 20,
-        "growlingfish/giftplatform-theme": 20
+        "growlingfish/giftplatform-theme": 20,
+        "airesvsg/acf-to-rest-api": 20
     },
     "prefer-stable": false,
     "prefer-lowest": false,
