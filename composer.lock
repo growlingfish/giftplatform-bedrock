@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "22dd61efcd98d6045b9dd4e9df636c4f",
+    "content-hash": "9036ef850b3a0f6901cbfcf708c878c5",
     "packages": [
         {
             "name": "airesvsg/acf-to-rest-api",
@@ -201,6 +201,27 @@
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
             "time": "2017-06-23T14:36:35+00:00"
+        },
+        {
+            "name": "growlingfish/giftplatform-theme",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/growlingfish/giftplatform-theme.git",
+                "reference": "d8fd9ac2134a065fc3a70286e37087c4b4369d5f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/d8fd9ac2134a065fc3a70286e37087c4b4369d5f",
+                "reference": "d8fd9ac2134a065fc3a70286e37087c4b4369d5f",
+                "shasum": ""
+            },
+            "type": "wordpress-theme",
+            "support": {
+                "source": "https://github.com/growlingfish/giftplatform-theme/tree/master",
+                "issues": "https://github.com/growlingfish/giftplatform-theme/issues"
+            },
+            "time": "2017-05-11T15:14:55+00:00"
         },
         {
             "name": "growlingfish/updraftplus",
@@ -624,6 +645,7 @@
         "wpackagist-plugin/advanced-custom-fields": 20,
         "wpackagist-plugin/custom-post-type-ui": 20,
         "growlingfish/giftplatform": 20,
+        "growlingfish/giftplatform-theme": 20,
         "airesvsg/acf-to-rest-api": 20
     },
     "prefer-stable": false,
