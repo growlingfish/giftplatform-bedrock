@@ -208,12 +208,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform-theme.git",
-                "reference": "72b11e1db2032b1b0f8f7f518ff653fec14f4e5e"
+                "reference": "81f7f5c7685d431d3086f74456dbb96db617ff56"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/72b11e1db2032b1b0f8f7f518ff653fec14f4e5e",
-                "reference": "72b11e1db2032b1b0f8f7f518ff653fec14f4e5e",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/81f7f5c7685d431d3086f74456dbb96db617ff56",
+                "reference": "81f7f5c7685d431d3086f74456dbb96db617ff56",
                 "shasum": ""
             },
             "type": "wordpress-theme",
@@ -221,7 +221,7 @@
                 "source": "https://github.com/growlingfish/giftplatform-theme/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform-theme/issues"
             },
-            "time": "2017-07-23T12:29:56+00:00"
+            "time": "2017-07-23T14:17:42+00:00"
         },
         {
             "name": "growlingfish/updraftplus",
