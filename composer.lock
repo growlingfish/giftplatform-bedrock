@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "9b2d383e1b79ba1aa80a139afd4d3e72",
+    "content-hash": "4c8dfc94e9fe8004f0dda216c992c0d2",
     "packages": [
         {
             "name": "airesvsg/acf-to-rest-api",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/airesvsg/acf-to-rest-api.git",
-                "reference": "42dea4edcddbaac88148b150e1729981ff1a07b9"
+                "reference": "2c61fa0d3356b6eece42dde30c4d80546f7634d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/42dea4edcddbaac88148b150e1729981ff1a07b9",
-                "reference": "42dea4edcddbaac88148b150e1729981ff1a07b9",
+                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/2c61fa0d3356b6eece42dde30c4d80546f7634d0",
+                "reference": "2c61fa0d3356b6eece42dde30c4d80546f7634d0",
                 "shasum": ""
             },
             "require": {
@@ -51,9 +51,9 @@
             "support": {
                 "email": "airesvsg@gmail.com",
                 "issues": "https://github.com/airesvsg/acf-to-rest-api/issues",
-                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.0.1-beta"
+                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.0.2"
             },
-            "time": "2017-04-04T12:46:19+00:00"
+            "time": "2017-10-05T13:26:29+00:00"
         },
         {
             "name": "composer/installers",
@@ -197,12 +197,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "c3b756cdad7ee225ccab55f808348a907ba054d0"
+                "reference": "38f0df163af2db260eb922f5b76098453c742d35"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/c3b756cdad7ee225ccab55f808348a907ba054d0",
-                "reference": "c3b756cdad7ee225ccab55f808348a907ba054d0",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/38f0df163af2db260eb922f5b76098453c742d35",
+                "reference": "38f0df163af2db260eb922f5b76098453c742d35",
                 "shasum": ""
             },
             "type": "wordpress-plugin",
@@ -210,7 +210,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2017-09-23T15:04:25+00:00"
+            "time": "2017-10-18T10:24:48+00:00"
         },
         {
             "name": "growlingfish/giftplatform-theme",
@@ -569,6 +569,27 @@
             "time": "2017-06-22T19:28:46+00:00"
         },
         {
+            "name": "wpackagist-plugin/wordpress-importer",
+            "version": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wordpress-importer/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wordpress-importer.zip?timestamp=1481227482",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wordpress-importer/",
+            "time": "2016-12-08T20:04:42+00:00"
+        },
+        {
             "name": "wpackagist-plugin/wp-dbmanager",
             "version": "dev-trunk",
             "source": {
@@ -593,16 +614,16 @@
     "packages-dev": [
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.1.0",
+            "version": "3.1.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "3c2d0a0fe39684ba0c1eb842a6a775d0b938d699"
+                "reference": "d667e245d5dcd4d7bf80f26f2c947d476b66213e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/3c2d0a0fe39684ba0c1eb842a6a775d0b938d699",
-                "reference": "3c2d0a0fe39684ba0c1eb842a6a775d0b938d699",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/d667e245d5dcd4d7bf80f26f2c947d476b66213e",
+                "reference": "d667e245d5dcd4d7bf80f26f2c947d476b66213e",
                 "shasum": ""
             },
             "require": {
@@ -640,12 +661,13 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2017-09-19T22:47:14+00:00"
+            "time": "2017-10-16T22:40:25+00:00"
         }
     ],
     "aliases": [],
     "minimum-stability": "stable",
     "stability-flags": {
+        "wpackagist-plugin/wordpress-importer": 20,
         "wpackagist-plugin/advanced-custom-fields": 20,
         "wpackagist-plugin/custom-post-type-ui": 20,
         "wpackagist-plugin/wp-dbmanager": 20,
