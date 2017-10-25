@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/airesvsg/acf-to-rest-api.git",
-                "reference": "2c61fa0d3356b6eece42dde30c4d80546f7634d0"
+                "reference": "6f7bff02aee8c0d33a87c0d11b72d05debc246f2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/2c61fa0d3356b6eece42dde30c4d80546f7634d0",
-                "reference": "2c61fa0d3356b6eece42dde30c4d80546f7634d0",
+                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/6f7bff02aee8c0d33a87c0d11b72d05debc246f2",
+                "reference": "6f7bff02aee8c0d33a87c0d11b72d05debc246f2",
                 "shasum": ""
             },
             "require": {
@@ -51,9 +51,9 @@
             "support": {
                 "email": "airesvsg@gmail.com",
                 "issues": "https://github.com/airesvsg/acf-to-rest-api/issues",
-                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.0.2"
+                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.1.0"
             },
-            "time": "2017-10-05T13:26:29+00:00"
+            "time": "2017-10-18T22:04:53+00:00"
         },
         {
             "name": "composer/installers",
@@ -197,12 +197,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "00e4b65d43b2493aab5da428c4ef35ea199129ba"
+                "reference": "03c823e206202987be093085e914aad7535e0c5f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/00e4b65d43b2493aab5da428c4ef35ea199129ba",
-                "reference": "00e4b65d43b2493aab5da428c4ef35ea199129ba",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/03c823e206202987be093085e914aad7535e0c5f",
+                "reference": "03c823e206202987be093085e914aad7535e0c5f",
                 "shasum": ""
             },
             "type": "wordpress-plugin",
@@ -210,7 +210,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2017-10-18T12:35:27+00:00"
+            "time": "2017-10-25T15:24:57+00:00"
         },
         {
             "name": "growlingfish/giftplatform-theme",
