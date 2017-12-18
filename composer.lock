@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/airesvsg/acf-to-rest-api.git",
-                "reference": "6f7bff02aee8c0d33a87c0d11b72d05debc246f2"
+                "reference": "99c7731e3cc1443a9dd7af98370db0ec228d7b28"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/6f7bff02aee8c0d33a87c0d11b72d05debc246f2",
-                "reference": "6f7bff02aee8c0d33a87c0d11b72d05debc246f2",
+                "url": "https://api.github.com/repos/airesvsg/acf-to-rest-api/zipball/99c7731e3cc1443a9dd7af98370db0ec228d7b28",
+                "reference": "99c7731e3cc1443a9dd7af98370db0ec228d7b28",
                 "shasum": ""
             },
             "require": {
@@ -51,9 +51,9 @@
             "support": {
                 "email": "airesvsg@gmail.com",
                 "issues": "https://github.com/airesvsg/acf-to-rest-api/issues",
-                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/3.1.0"
+                "source": "https://github.com/airesvsg/acf-to-rest-api/tree/master"
             },
-            "time": "2017-10-18T22:04:53+00:00"
+            "time": "2017-12-04T01:11:32+00:00"
         },
         {
             "name": "composer/installers",
@@ -197,12 +197,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "5261e472b965ec1f3e10d0275d5ff3e533c58fef"
+                "reference": "767703feb4f44cd700120cc0ade6411318f57e36"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/5261e472b965ec1f3e10d0275d5ff3e533c58fef",
-                "reference": "5261e472b965ec1f3e10d0275d5ff3e533c58fef",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/767703feb4f44cd700120cc0ade6411318f57e36",
+                "reference": "767703feb4f44cd700120cc0ade6411318f57e36",
                 "shasum": ""
             },
             "type": "wordpress-plugin",
@@ -210,7 +210,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2017-11-27T14:29:15+00:00"
+            "time": "2017-12-18T16:10:56+00:00"
         },
         {
             "name": "growlingfish/giftplatform-theme",
@@ -617,16 +617,16 @@
     "packages-dev": [
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.1.1",
+            "version": "3.2.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "d667e245d5dcd4d7bf80f26f2c947d476b66213e"
+                "reference": "4064632daf602552d40dcff30a1658ab76fc1621"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/d667e245d5dcd4d7bf80f26f2c947d476b66213e",
-                "reference": "d667e245d5dcd4d7bf80f26f2c947d476b66213e",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/4064632daf602552d40dcff30a1658ab76fc1621",
+                "reference": "4064632daf602552d40dcff30a1658ab76fc1621",
                 "shasum": ""
             },
             "require": {
@@ -664,7 +664,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2017-10-16T22:40:25+00:00"
+            "time": "2017-12-18T00:24:01+00:00"
         }
     ],
     "aliases": [],
