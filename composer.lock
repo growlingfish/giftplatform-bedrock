@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "98372891f484a029a99673948e948cf0fe9ba2cd"
+                "reference": "c1c475fbdc7f7c2b3ec4735d6919a1b2d82e5049"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/98372891f484a029a99673948e948cf0fe9ba2cd",
-                "reference": "98372891f484a029a99673948e948cf0fe9ba2cd",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/c1c475fbdc7f7c2b3ec4735d6919a1b2d82e5049",
+                "reference": "c1c475fbdc7f7c2b3ec4735d6919a1b2d82e5049",
                 "shasum": ""
             },
             "require": {
@@ -270,7 +270,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2018-01-09T10:00:53+00:00"
+            "time": "2018-01-09T14:22:19+00:00"
         },
         {
             "name": "growlingfish/giftplatform-theme",
