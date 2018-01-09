@@ -278,12 +278,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform-theme.git",
-                "reference": "b8b2e15468c0a1f035512e2baf1bb10588ed96c7"
+                "reference": "1f54630adf47a0e321ba05ca336c3647d203eeaa"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/b8b2e15468c0a1f035512e2baf1bb10588ed96c7",
-                "reference": "b8b2e15468c0a1f035512e2baf1bb10588ed96c7",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/1f54630adf47a0e321ba05ca336c3647d203eeaa",
+                "reference": "1f54630adf47a0e321ba05ca336c3647d203eeaa",
                 "shasum": ""
             },
             "type": "wordpress-theme",
@@ -291,7 +291,7 @@
                 "source": "https://github.com/growlingfish/giftplatform-theme/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform-theme/issues"
             },
-            "time": "2017-09-10T20:20:06+00:00"
+            "time": "2018-01-09T16:00:11+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
