@@ -252,12 +252,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform.git",
-                "reference": "a5cae3ea7002dae40a2a92b9198426b55046216d"
+                "reference": "98372891f484a029a99673948e948cf0fe9ba2cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/a5cae3ea7002dae40a2a92b9198426b55046216d",
-                "reference": "a5cae3ea7002dae40a2a92b9198426b55046216d",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform/zipball/98372891f484a029a99673948e948cf0fe9ba2cd",
+                "reference": "98372891f484a029a99673948e948cf0fe9ba2cd",
                 "shasum": ""
             },
             "require": {
@@ -270,7 +270,7 @@
                 "source": "https://github.com/growlingfish/giftplatform/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform/issues"
             },
-            "time": "2018-01-04T16:39:39+00:00"
+            "time": "2018-01-09T10:00:53+00:00"
         },
         {
             "name": "growlingfish/giftplatform-theme",
@@ -1148,16 +1148,16 @@
         },
         {
             "name": "symfony/options-resolver",
-            "version": "v4.0.2",
+            "version": "v4.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/options-resolver.git",
-                "reference": "75fdda335eb0adbd464089e8a0184c61097808e0"
+                "reference": "30d9240b30696a69e893534c9fc4a5c72ab6689b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/75fdda335eb0adbd464089e8a0184c61097808e0",
-                "reference": "75fdda335eb0adbd464089e8a0184c61097808e0",
+                "url": "https://api.github.com/repos/symfony/options-resolver/zipball/30d9240b30696a69e893534c9fc4a5c72ab6689b",
+                "reference": "30d9240b30696a69e893534c9fc4a5c72ab6689b",
                 "shasum": ""
             },
             "require": {
@@ -1198,7 +1198,7 @@
                 "configuration",
                 "options"
             ],
-            "time": "2017-12-14T19:48:22+00:00"
+            "time": "2018-01-03T07:38:00+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
