@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "c8933eca4aece8d5e23909a6ed9ba166",
+    "content-hash": "91fe35535a32620cadde0ac6e73a8d4d",
     "packages": [
         {
             "name": "airesvsg/acf-to-rest-api",
@@ -1148,7 +1148,7 @@
         },
         {
             "name": "symfony/options-resolver",
-            "version": "v4.0.4",
+            "version": "v4.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/options-resolver.git",
@@ -1383,6 +1383,27 @@
             "type": "wordpress-plugin",
             "homepage": "https://wordpress.org/plugins/wp-dbmanager/",
             "time": "2017-03-31T03:43:11+00:00"
+        },
+        {
+            "name": "wpackagist-plugin/wp-mail-smtp",
+            "version": "dev-trunk",
+            "source": {
+                "type": "svn",
+                "url": "https://plugins.svn.wordpress.org/wp-mail-smtp/",
+                "reference": "trunk"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://downloads.wordpress.org/plugin/wp-mail-smtp.zip?timestamp=1517953157",
+                "reference": null,
+                "shasum": null
+            },
+            "require": {
+                "composer/installers": "~1.0"
+            },
+            "type": "wordpress-plugin",
+            "homepage": "https://wordpress.org/plugins/wp-mail-smtp/",
+            "time": "2018-02-06T21:39:17+00:00"
         }
     ],
     "packages-dev": [
@@ -1445,6 +1466,7 @@
         "wpackagist-plugin/advanced-custom-fields": 20,
         "wpackagist-plugin/custom-post-type-ui": 20,
         "wpackagist-plugin/wp-dbmanager": 20,
+        "wpackagist-plugin/wp-mail-smtp": 20,
         "growlingfish/giftplatform": 20,
         "growlingfish/giftplatform-theme": 20,
         "airesvsg/acf-to-rest-api": 20

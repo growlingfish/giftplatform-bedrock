@@ -60,6 +60,7 @@
     "wpackagist-plugin/advanced-custom-fields": "dev-trunk",
     "wpackagist-plugin/custom-post-type-ui": "dev-trunk",
     "wpackagist-plugin/wp-dbmanager": "dev-trunk",
+    "wpackagist-plugin/wp-mail-smtp": "dev-trunk",
     "growlingfish/giftplatform": "dev-master",
     "growlingfish/giftplatform-theme": "dev-master",
     "growlingfish/better-search-replace": "1.3.3",
