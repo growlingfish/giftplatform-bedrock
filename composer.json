@@ -30,7 +30,7 @@
   "repositories": [
     {
       "type": "composer",
-      "url": "http://growlingfish.asuscomm.com/satis"
+      "url": "http://growlingfish.mynetgear.com/satis"
     },
     {
       "type": "composer",

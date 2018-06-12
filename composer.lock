@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "3880fa638cf141d5b9b974ae42e9fbbc",
+    "content-hash": "9dab845e4f809e6608dd256978615d04",
     "packages": [
         {
             "name": "airesvsg/acf-to-rest-api",
@@ -278,12 +278,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/growlingfish/giftplatform-theme.git",
-                "reference": "bf6eccad5a94e22f153d367d2c1b84c1a3e56914"
+                "reference": "918a08b6f248ac97cbda652c923fbe7b673c5e62"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/bf6eccad5a94e22f153d367d2c1b84c1a3e56914",
-                "reference": "bf6eccad5a94e22f153d367d2c1b84c1a3e56914",
+                "url": "https://api.github.com/repos/growlingfish/giftplatform-theme/zipball/918a08b6f248ac97cbda652c923fbe7b673c5e62",
+                "reference": "918a08b6f248ac97cbda652c923fbe7b673c5e62",
                 "shasum": ""
             },
             "type": "wordpress-theme",
@@ -291,7 +291,7 @@
                 "source": "https://github.com/growlingfish/giftplatform-theme/tree/master",
                 "issues": "https://github.com/growlingfish/giftplatform-theme/issues"
             },
-            "time": "2018-06-06T12:24:15+00:00"
+            "time": "2018-06-06T13:09:13+00:00"
         },
         {
             "name": "guzzlehttp/psr7",
@@ -1409,16 +1409,16 @@
     "packages-dev": [
         {
             "name": "squizlabs/php_codesniffer",
-            "version": "3.2.3",
+            "version": "3.3.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/squizlabs/PHP_CodeSniffer.git",
-                "reference": "4842476c434e375f9d3182ff7b89059583aa8b27"
+                "reference": "d86873af43b4aa9d1f39a3601cc0cfcf02b25266"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/4842476c434e375f9d3182ff7b89059583aa8b27",
-                "reference": "4842476c434e375f9d3182ff7b89059583aa8b27",
+                "url": "https://api.github.com/repos/squizlabs/PHP_CodeSniffer/zipball/d86873af43b4aa9d1f39a3601cc0cfcf02b25266",
+                "reference": "d86873af43b4aa9d1f39a3601cc0cfcf02b25266",
                 "shasum": ""
             },
             "require": {
@@ -1456,7 +1456,7 @@
                 "phpcs",
                 "standards"
             ],
-            "time": "2018-02-20T21:35:23+00:00"
+            "time": "2018-06-06T23:58:19+00:00"
         }
     ],
     "aliases": [],
