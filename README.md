@@ -1,4 +1,4 @@
-# GIFT Platform
+# GIFT Platform (DIY)
 
 To enable an ecosystem of apps and services that can pass gifts from giver to recipient (and back), we provide the [GIFT Platform](https://toolkit.gifting.digital/gift-platform/): a data schema for "hybrid gifts", an API and content management system (CMS).
 
