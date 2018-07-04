@@ -1,4 +1,16 @@
-# [Bedrock](https://roots.io/bedrock/)
+# GIFT Platform (DIY)
+
+To enable an ecosystem of apps and services that can pass gifts from giver to recipient (and back), we provide the [GIFT Platform](https://toolkit.gifting.digital/gift-platform/): a data schema for "hybrid gifts", an API and content management system (CMS).
+
+Our preferred method of preparing, deploying and managing custom WordPress installations is to use the Roots framework. Please see [https://toolkit.gifting.digital/gift-platform/diy-gift/](https://toolkit.gifting.digital/gift-platform/diy-gift/) for more details on using this Bedrock repository to help set up your own private instance of the GIFT Platform.
+
+To use the public instance of the GIFT Platform maintained by the GIFT project, please visit the [GIFT Toolkit](https://toolkit.gifting.digital/)
+
+## The GIFT project
+
+GIFT is a [research project funded by Horizon 2020](https://gift.itu.dk/), exploring hybrid forms of virtual museum experiences. The project brings together artists, designers, museum professionals and computer scientists to help museums create personal encounters with cultural heritage, both in physical and digital realms.
+
+## [Bedrock](https://roots.io/bedrock/)
 [![Packagist](https://img.shields.io/packagist/v/roots/bedrock.svg?style=flat-square)](https://packagist.org/packages/roots/bedrock)
 [![Build Status](https://img.shields.io/travis/roots/bedrock.svg?style=flat-square)](https://travis-ci.org/roots/bedrock)
 
@@ -6,7 +18,7 @@ Bedrock is a modern WordPress stack that helps you get started with the best dev
 
 Much of the philosophy behind Bedrock is inspired by the [Twelve-Factor App](http://12factor.net/) methodology including the [WordPress specific version](https://roots.io/twelve-factor-wordpress/).
 
-## Features
+### Features
 
 * Better folder structure
 * Dependency management with [Composer](http://getcomposer.org)
@@ -23,12 +35,12 @@ Use [Trellis](https://github.com/roots/trellis) for additional features:
 
 See a complete working example in the [roots-example-project.com repo](https://github.com/roots/roots-example-project.com).
 
-## Requirements
+### Requirements
 
 * PHP >= 5.6
 * Composer - [Install](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx)
 
-## Installation
+### Installation
 
 1. Create a new project in a new folder for your project:
 
@@ -58,7 +70,7 @@ See a complete working example in the [roots-example-project.com repo](https://g
 
 5. Access WP admin at `http://example.com/wp/wp-admin`
 
-## Deploys
+### Deploys
 
 There are two methods to deploy Bedrock sites out of the box:
 
@@ -69,15 +81,15 @@ Any other deployment method can be used as well with one requirement:
 
 `composer install` must be run as part of the deploy process.
 
-## Documentation
+### Documentation
 
 Bedrock documentation is available at [https://roots.io/bedrock/docs/](https://roots.io/bedrock/docs/).
 
-## Contributing
+### Contributing
 
 Contributions are welcome from everyone. We have [contributing guidelines](https://github.com/roots/guidelines/blob/master/CONTRIBUTING.md) to help you get started.
 
-## Community
+### Community
 
 Keep track of development and community news.
 
