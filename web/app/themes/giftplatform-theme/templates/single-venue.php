@@ -17,7 +17,6 @@
 
 <div class="step" id="locations">
     <h1>Locations and objects</h1>
-    <p><a href="/new-location/?venue=<?php echo $venue->term_id; ?>" class="button" target="_blank">Add a new location</a></p>
 <?php
     $locations = get_posts(
         array( 
@@ -40,12 +39,13 @@
                 'posts_per_page' => -1
             )
         );
+        $i = 0;
         foreach ($locations as $location) {
-            echo '<h2>'.$location->post_title.'</h2>';
+            echo '<h2>Location '.++$i.': '.$location->post_title.'</h2>';
             echo '<blockquote>'.$location->post_content.'</blockquote>';
             echo '<p><a href="'.get_the_guid($location->ID).'" class="button">Edit this location</a></p>';
             echo '<div class="grid giftobjectsvis">';
-            echo '<div class="grid-item grid-item--width2"><p><a href="/new-object/?location='.$location->ID.'">Add a new object to this location</a></p></div>';
+            echo '<div class="grid-item grid-item--width2"><p style="text-align: center;"><a href="/new-object/?location='.$location->ID.'" class="button">Add a new object to this location</a></p></div>';
             foreach ($objects as $object) {
                 $l = get_field( 'field_59a85fff4be5a', $object->ID );
                 if (!$l || count($l) == 0) {
@@ -72,6 +72,8 @@
         echo '<p>There are no locations configured in your venue yet.</p>';
     }
 ?>
+    <h2>More locations?</h2>
+    <p><a href="/new-location/?venue=<?php echo $venue->term_id; ?>" class="button" target="_blank">Add a new location</a></p>
 </div>
 
 <div class="step" id="gifts">
